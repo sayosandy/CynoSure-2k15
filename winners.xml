@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<event>
+		<name>Code Smash</name>
+		<wname>Sandeep Arsule</wname>
+		<prize>Rs.5000</prize>
+		<dept>Computer Engineering</dept>
+	</event>
+
+	<event>
+		<name>X'celerate</name>
+		<wname>Shrikant Jain</wname>
+		<prize>Rs.5000</prize>
+		<dept>Computer Engineering</dept>
+	</event>
+</menu>
